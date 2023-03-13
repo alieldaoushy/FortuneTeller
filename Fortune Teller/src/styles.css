@@ -1,0 +1,27 @@
+
+body{
+background: linear-gradient(to right, #00AAFF, #DC143C);
+}
+.clicker {
+position: absolute;
+top: 50%;
+left: 40%;
+width: 200px;
+}
+.generateBtn {
+font-family: "Ink free";
+font-weight: bold;
+font-size: 24px;
+background-color: rgba
+}
+.display {
+position: absolute;
+top: 60%;
+left: 40%;
+width: 400px;
+height: 150px;
+font-size: 24px;
+background-color: rgba(180,180,250);
+color: black;
+}
+
